@@ -1,6 +1,6 @@
 # RL-JAX
 
-Implementation of interesting Deep Reinforcement Learning Algorithms using JAX based libraries (flax, haiku and rlax)
+Implementation of interesting Deep Reinforcement Learning Algorithms using JAX based libraries ([flax](https://github.com/google/flax), [haiku](https://github.com/deepmind/dm-haiku) and [rlax](https://github.com/deepmind/rlax))
 As of now tasks come from OpenAI gym
 
 ## Current implementations
